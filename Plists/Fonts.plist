@@ -9,7 +9,7 @@
 			<key>CellField1FontName</key>
 			<string>FCBarcelona15-16byTranDuc.ttf</string>
 			<key>CellField1FontSize</key>
-			<string>60</string>
+			<integer>60</integer>
 			<key>CellField2FontName</key>
 			<string>FCBarcelona15-16byTranDuc.ttf</string>
 			<key>CellField2FontSize</key>
